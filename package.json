@@ -1,0 +1,34 @@
+{
+  "name": "forecast-card",
+  "version": "1.0.0",
+  "description": "Forecast page with background blur.",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snlucas/forecast-card.git"
+  },
+  "keywords": [
+    "forecast",
+    "weather",
+    "blur"
+  ],
+  "author": "snlucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snlucas/forecast-card/issues"
+  },
+  "homepage": "https://github.com/snlucas/forecast-card#readme",
+  "dependencies": {
+    "all-the-cities": "^3.1.0",
+    "openmeteo": "^1.1.4"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10"
+  }
+}
